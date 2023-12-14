@@ -4,6 +4,6 @@ Made from freeCodeCamp's boilerplate code for the Exercise Tracker project (http
 
 You can see all users and their ID's by GETting "/api/users", and all the excercises of a specific user by GETting "/api/users/:_id/logs" (replacing :_id with the corresponding ID).
 
-You'll need to add a valid MongoDB URI string as the MONGO_URI variable in the .env if you want it to work.
+You'll need to add a valid MongoDB URI string as the MONGO_URI variable in the environment variables for it to work.
 
 (Frontend is unmodified from the one provided by freeCodeCamp for testing)
